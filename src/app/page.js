@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
-import Heros from '@/components/Heros'
-import FilterBox from '@/components/FilterBox'
+import Heros from '@/components/Home/Heros'
+import FilterBox from '@/components/Home/FilterBox'
 export default function Home() {
   return (
     <>
